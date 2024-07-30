@@ -1,0 +1,35 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Rh-doped Sr2IrO4
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
+authors:
+  - given-names: Seokhwan
+    family-names: Choi
+    affiliation: University of British Columbia
+  - given-names: Dong
+    family-names: Chen
+    affiliation: University of British Columbia
+  - given-names: Brandon
+    family-names: Stuart
+    affiliation: University of British Columbia
+  - given-names: Jisun
+    family-names: Kim
+    affiliation: University of British Columbia
+  - given-names: D. A.
+    family-names: Bonn
+    affiliation: University of British Columbia
+  - given-names: S. A.
+    family-names: Burke
+    email: saburke@phas.ubc.ca
+    affiliation: University of British Columbia
+abstract: >-
+  Matlab-formatted raw STM/STS grid maps. Measurements
+  include: Sr_2Rh_0.05Ir_0.9O_4 measured at 4 K and 77 K,
+  and Sr_2Rh_0.18Ir_0.82O_4 measured at 77 K.
+license: CC-BY-NC-4.0
+date-released: '2024-07-30'
