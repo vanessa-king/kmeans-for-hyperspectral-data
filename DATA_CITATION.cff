@@ -28,7 +28,7 @@ authors:
     email: saburke@phas.ubc.ca
     affiliation: University of British Columbia
 abstract: >-
-  Matlab-formatted raw STM/STS grid maps. Measurements
+  Matlab-formatted STM/STS grid maps. Raw I vs V curves were numerically differentiated to produce dI/dV spectra. Measurements
   include: Sr_2Rh_0.05Ir_0.9O_4 measured at 4 K,
   and Sr_2Rh_0.18Ir_0.82O_4 measured at 4 K and 77 K.
 license: CC-BY-NC-4.0
